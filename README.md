@@ -1,63 +1,12 @@
 # GymtrackerAPI
 Backend REST API for a gym and fitness tracking application.
 
-GROUP NUMBER - 10 GROUP MEMBERS -
+GROUP NUMBER - 6 GROUP MEMBERS -
 
-Harsimranpreet Kaur
-Tanishq Sharma 
-Komalpreet Kaur
-Project Description
+Harkiratt
+Tanishq 
+Mir 
 
-GymTrackerAPI is a web application designed to help users track their fitness activities, workout routines, and fitness progress. Users can create workout plans, log exercises, monitor daily fitness goals, and manage gym schedules. The system will use a REST API built with Node.js, TypeScript, and Express to manage workout and user data efficiently.
 
-Basic Frontend Idea
-
-The frontend will contain: Dashboard showing workout progress Workout routine creation form Exercise tracking page Daily fitness goal tracker User profile and statistics page
-
-The frontend will communicate with the REST API using HTTP requests.
-
-Roles/tasks breakdown:
-
-<<<<<<< HEAD
-Harsimranpreet Kaur
-GitHub repository setup
-Project initialization
-Member 2
-Jira board creation and management
-Task creation and assignment
-Tracking progress and workflow
-Member 3
-VS Code project setup
-Backend development support (Node.js / Express API)
-=======
-1. Harsimranpreet Kaur  
-- GitHub repository setup  
-- Project initialization  
-
-2. Member 2  
-- Jira board creation and management  
-- Task creation and assignment  
-- Tracking progress and workflow  
-
-3. Member 3  
-- VS Code project setup  
-- Backend development support (Node.js / Express API)  
- 
-MILESTONE #2
-# Team Responsibilities
-
-## Tanishq sharma 
-- Database selection
-- Database design
-- ER Diagram creation
-- Database documentation
-
-## Harsimranpreet kaur 
-- Wireframe design
-- User interface planning
-- Navigation design
-
-## Komalpreet Kaur
-- API route planning
-- Express architecture planning
-- Technical documentation
+Project Description:
+This is DocuSafe, a secure document management system. Students can securely log in and upload academic documents. Uploaded documents are stored with a default Pending status. Administrators log in through a separate interface where they can review pending submissions and either approve or reject them. All actions are protected using JWT authentication and role-based authorization, and important events are recorded in security logs. The backend is built with Express and TypeScript, the database is MySQL, and the project is version-controlled with Git and GitHub.
