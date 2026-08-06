@@ -1,0 +1,1 @@
+A navigation bar is included on every page of the application. Users can move between Home, Add Workout, Workouts, and Nutrition Reports without returning to the Home Page. This provides a consistent user experience and allows quick access to all major features of the GymTracker application.
